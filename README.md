@@ -17,4 +17,5 @@ En esta seccion se debera agregar una descripcion de cada uno, lo principal que 
   - Project Management
 ### Would like
 To contribute in multiple areas, and to promote the usage of functional programming as in RamdaJS
+
 -----
